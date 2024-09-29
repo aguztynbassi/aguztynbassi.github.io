@@ -1,5 +1,4 @@
-/* Buttons
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Buttons */
 .button {
   display: inline-block;
   text-decoration: none;
@@ -45,8 +44,7 @@
   vertical-align: middle;
 }
 
-/* Brand Icons
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Brand Icons */
 
 .icon {
   padding: 0px 8px 3.5px 0px;
@@ -55,21 +53,13 @@
   height: 20px;
 }
 
-/* Brand Styles
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-.button.button-slack {
-  color: #FFFFFF;
-  background-color: #7b16ff }
-.button.button-slack:hover,
-.button.button-slack:hover:before {
-  white-space: initial; }
+/* Brand Styles */
 
 .button.button-twitter {
   color: #FFFFFF;
   background-color: #1DA1F2 }
-.button.button-kit:hover,
-.button.button-kit:hover:before {
+.button.button-twitter:hover,
+.button.button-twitter:hover:before {
     white-space: initial; }
 
 .button.button-youtube {
@@ -79,25 +69,11 @@
 .button.button-youtube:hover:before {
     white-space: initial; }
 
-.button.button-slides {
-  color: #FFFFFF;
-  background-color: #212c3d }
-.button.button-slides:hover,
-.button.button-slides:hover:before {
-    white-space: initial; }
-
-.button.button-mercha {
-  color: #000000;
-  background-color: #fffc00 }
-.button.button-mercha:hover,
-.button.button-mercha:hover:before {
-    white-space: initial; }
-
-.button.button-reddit {
+.button.button-blogger {
   color: #FFFFFF;
   background-color: #FF4500 }
-.button.button-reddit:hover,
-.button.button-reddit:hover:before {
+.button.button-blogger:hover,
+.button.button-blogger:hover:before {
     white-space: initial; }
 
 .button.button-mail {
@@ -110,13 +86,13 @@
 .button.button-github {
   color: #FFFFFF;
   background-color: #0e0e0e }
-.button.button-kofi:hover,
-.button.button-kofi:hover:before {
+.button.button-github:hover,
+.button.button-github:hover:before {
     white-space: initial; }
 
 .button.button-linkedin {
   color: #FFFFFF;
   background-color: #0A66C2 }
-.button.button-sponsors:hover,
-.button.button-sponsors:hover:before {
+.button.button-linkedin:hover,
+.button.button-linkedin:hover:before {
     white-space: initial; }
