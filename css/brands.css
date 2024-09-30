@@ -55,44 +55,9 @@
 
 /* Brand Styles */
 
-.button.button-twitter {
-  color: #FFFFFF;
-  background-color: #1DA1F2 }
-.button.button-twitter:hover,
-.button.button-twitter:hover:before {
-    white-space: initial; }
-
-.button.button-youtube {
-  color: #FFFFFF;
-  background-color: #FF0000 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
-    white-space: initial; }
-
-.button.button-blogger {
-  color: #FFFFFF;
-  background-color: #FF4500 }
-.button.button-blogger:hover,
-.button.button-blogger:hover:before {
-    white-space: initial; }
-
 .button.button-mail {
   color: #000000;
   background-color: #E8F3EC }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
-    white-space: initial; }
-
-.button.button-github {
-  color: #FFFFFF;
-  background-color: #0e0e0e }
-.button.button-github:hover,
-.button.button-github:hover:before {
-    white-space: initial; }
-
-.button.button-linkedin {
-  color: #FFFFFF;
-  background-color: #0A66C2 }
-.button.button-linkedin:hover,
-.button.button-linkedin:hover:before {
     white-space: initial; }
